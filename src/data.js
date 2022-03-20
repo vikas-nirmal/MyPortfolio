@@ -1,0 +1,32 @@
+export const products =[
+    {
+        id:1,
+        img:"https://res.cloudinary.com/dko6kivym/image/upload/v1647767235/portfolio/Hike-app_qcfvzf.png",
+        link:"https://hike-media.herokuapp.com/"
+    },
+    {
+        id:2,
+        img:"https://res.cloudinary.com/dko6kivym/image/upload/v1646058987/portfolio/directmart_oyckpe.png",
+        link:"https://directmart-store.herokuapp.com/"
+    },
+    {
+        id:3,
+        img:"https://res.cloudinary.com/dko6kivym/image/upload/v1647767232/portfolio/mynotebook_hr0bht.png",
+        link:"https://directmart-store.herokuapp.com/"
+    },
+    {
+        id:4,
+        img:"https://res.cloudinary.com/dko6kivym/image/upload/v1646058968/portfolio/typinger_ohdr45.png",
+        link:"https://practice-typing.netlify.app/"
+    },
+    {
+        id:5,
+        img:"https://res.cloudinary.com/dko6kivym/image/upload/v1646058995/portfolio/mistore_qozjo4.png",
+        link:"https://miistore-clone.netlify.app"
+    },
+    {
+        id:6,
+        img:"https://res.cloudinary.com/dko6kivym/image/upload/v1646058963/portfolio/texttool_cj6chm.png",
+        link:"https://text-tool.netlify.app"
+    },
+]
