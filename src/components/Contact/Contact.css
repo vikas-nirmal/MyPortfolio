@@ -76,7 +76,7 @@ textarea{
     padding: 10px;
 }
 
-button{
+.c-submit{
     border: none;
     padding: 15px;
     background-color: rgb(156, 21, 156);
@@ -105,6 +105,9 @@ button{
         margin: 20px 0px;
         width: 100%;
     }
+    .c-desc{
+        margin-top: 0px;
+    }
     form{
         margin-top: 0px;
         display: flex;
@@ -112,11 +115,11 @@ button{
     }
     input{
         width: 55%;
-        height: 40px;
-        margin: 9px;
+        height: 25px;
+        margin: auto;
         margin-left: 0px;
     }
-    button{
+    .c-submit{
         margin-top: 10px;
     }
 }

@@ -12,7 +12,7 @@ export const products =[
     {
         id:3,
         img:"https://res.cloudinary.com/dko6kivym/image/upload/v1647767232/portfolio/mynotebook_hr0bht.png",
-        link:"https://directmart-store.herokuapp.com/"
+        link:"#"
     },
     {
         id:4,

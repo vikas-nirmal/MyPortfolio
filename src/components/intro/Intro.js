@@ -13,11 +13,19 @@ const Intro = () => {
                     <div className="title">
                         <div className="title-item">MERN Fullstack Devloper</div>
                         <div className="title-item">Frontend Devloper</div>
-                        <div className="title-item">Pursuing Next.js</div>
+                        <div className="title-item">Javascript</div>
+                        <div className="title-item">React.js</div>
+                        <div className="title-item">Node.js</div>
+                        <div className="title-item">Express.js</div>
                     </div>
                 </div>
                 <div className="intro-desc">
                     I am Full stack web developer with more than 150 hours of building, maintaining and deploying single page/eCommerce and many more applications. and I am currently learning next.js which is a full-stack framework (as in, it handles both the frontend and backend of our application)
+                </div>
+                <div className="intro-links">
+                <a href="resume.pdf" download='Vikas resume.pdf' >
+                    <button className="intro-btn">Get Resume</button>
+                </a>
                 </div>
             </div>
         </div>
