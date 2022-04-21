@@ -17,7 +17,7 @@ export const products =[
     {
         id:4,
         img:"https://res.cloudinary.com/dko6kivym/image/upload/v1646058968/portfolio/typinger_ohdr45.png",
-        link:"https://practice-typing.netlify.app/"
+        link:"https://typinger-vikas-nirmal.vercel.app/"
     },
     {
         id:5,
